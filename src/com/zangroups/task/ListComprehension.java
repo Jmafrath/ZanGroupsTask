@@ -3,8 +3,6 @@ package com.zangroups.task;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class ListComprehension {
 	public static void main(String[] args) {
